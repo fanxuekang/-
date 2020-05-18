@@ -1,0 +1,7 @@
+一些重要连接：
+1 
+https://blog.csdn.net/han____shuai/article/details/53152768
+文本特征提取方法的研究
+2 
+https://blog.csdn.net/sinat_33741547/article/details/78731246?fps=1&locationNum=2
+文本分类与特征提取
