@@ -9,3 +9,13 @@ https://blog.csdn.net/sinat_33741547/article/details/78731246?fps=1&locationNum=
 3
 https://blog.csdn.net/XYlittlework/article/details/79095394
 迁移学习综述
+
+4 
+https://www.cnblogs.com/juefan/p/3386991.html
+Word2vector在中文中的应用
+
+5
+https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+一个什么SVM分类器的代码。
+
+462
